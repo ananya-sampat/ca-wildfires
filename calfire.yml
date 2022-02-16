@@ -1,0 +1,14 @@
+name: calfire
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - ipywidgets
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+    - scikit-learn
+  - conda
+  - conda:
+    - ipykernel
