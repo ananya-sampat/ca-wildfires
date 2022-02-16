@@ -11,3 +11,9 @@ The California Department of Forestry and Fire Protection (CAL FIRE) maintains h
 ## Prerequisites
 
 The prerequisites packages needed are included in the `environment.yml` file and at starting of main notebook.
+
+## Analysis Summary
+
+- The number of wild fire incidents have increased significantly over the recent years. This translates to both the duration and the acres destroyed by the fire.
+- Outside lightning, most of the major causes of wildfires are man made and hence preventable.
+- The fact that fire sizes and durations cluster around the agencies that are responsible for fire management seem to suggest that some agencies have better practices than others when it comes to containment of wildfires.
